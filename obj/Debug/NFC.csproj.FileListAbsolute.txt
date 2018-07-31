@@ -1,0 +1,12 @@
+c:\users\ghi\source\repos\NFC\NFC\bin\Debug\NFC.exe
+c:\users\ghi\source\repos\NFC\NFC\bin\Debug\NFC.pdb
+c:\users\ghi\source\repos\NFC\NFC\bin\Debug\GHIElectronics.TinyCLR.Devices.dll
+c:\users\ghi\source\repos\NFC\NFC\bin\Debug\GHIElectronics.TinyCLR.Networking.dll
+c:\users\ghi\source\repos\NFC\NFC\bin\Debug\GHIElectronics.TinyCLR.Networking.SPWF04Sx.dll
+c:\users\ghi\source\repos\NFC\NFC\bin\Debug\GHIElectronics.TinyCLR.Pins.dll
+c:\users\ghi\source\repos\NFC\NFC\bin\Debug\mscorlib.dll
+c:\users\ghi\source\repos\NFC\NFC\obj\Debug\NFC.csprojAssemblyReference.cache
+c:\users\ghi\source\repos\NFC\NFC\obj\Debug\NFC.csproj.CoreCompileInputs.cache
+c:\users\ghi\source\repos\NFC\NFC\obj\Debug\NFC.csproj.CopyComplete
+c:\users\ghi\source\repos\NFC\NFC\obj\Debug\NFC.exe
+c:\users\ghi\source\repos\NFC\NFC\obj\Debug\NFC.pdb
